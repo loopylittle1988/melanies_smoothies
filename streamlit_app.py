@@ -45,7 +45,7 @@ if ingredients_list:
             'SEARCH_ON'
         ].iloc[0]
 
-        st.write(
+        #st.write(
             'The search value for ',
             fruit_chosen,
             ' is ',
